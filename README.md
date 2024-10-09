@@ -1,6 +1,8 @@
-Hello
+<h1 style='color:red;'>Hello</h1>
 
-Born in Maine, USA
-Landscape Designer
-Amateur viticulturist
+
+<p style='color:🌲;'>Born in Maine, USA</p>
+<p>Landscape Designer</p>
+<p>Amateur viticulturist</p>
+
 
